@@ -1,8 +1,8 @@
 fun main(){
    names()
-    towns(arrayOf("dodoma","harare","jakarta"))
+    towns(arrayOf("dodoma","makerere","nairobi"))
 numbers(arrayOf(32,17,4,213,78,43,90,31,3,73,11,158,62))
-detail(arrayOf("Ali","Wanjiku","Mary"))
+detail(arrayOf("Misky","Isa","Tanyasis"))
 }
 
 fun names(){
