@@ -6,8 +6,8 @@ detail(arrayOf("Ali","Wanjiku","Mary"))
 }
 
 fun names(){
-    var x = arrayOf("Sakina","Saint","Sam","Serah")
-    println(x.contentToString())
+    var virginia = arrayOf("Sakina","Saint","Sam","Serah")
+    println(virginia.contentToString())
 }
 
 fun towns(names: Array<String>){
@@ -17,8 +17,8 @@ fun towns(names: Array<String>){
 }
 
 fun numbers(number:Array<Int>){
-    var sum = number[5]+number[2]
-    println(sum)
+    var summation = number[5]+number[2]
+    println(summation)
 
 var num = number.indexOf(158)
     println(num)
